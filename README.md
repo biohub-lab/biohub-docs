@@ -16,4 +16,4 @@ Aqui ficam os documentos do projeto. Para começar, leia nesta ordem:
 - Nunca subir chaves, senhas ou arquivos `.env`
 
 ## Última atualização
-21/11/2026 — Criação do [(biohub-docs/)] e organização de suas pastas  - Rafap -
+21/11/2026 — Criação do #biohub-docs# e organização de suas pastas  - Rafap -
